@@ -1,0 +1,10 @@
+[
+    {
+        "classification":"jupyter-s3-conf",
+        "properties":
+            {
+                "s3.persistence.bucket":"oc-cloud-computing",
+                "s3.persistence.enabled":"true"
+            }
+    }
+]
